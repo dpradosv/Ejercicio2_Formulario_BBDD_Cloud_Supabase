@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Ejercicio2_Formulario_BBDD_Cloud_Supabase</string>
+    <string name="hint_form_title">Título</string>
+    <string name="hint_form_description">Descripción</string>
+    <string name="hint_form_category">Categoría</string>
+    <string name="label_form_priority">Prioridad:</string>
+    <string name="hint_form_email">Email</string>
+    <string name="label_form_priority_1">1</string>
+    <string name="label_form_priority_2">2</string>
+    <string name="label_form_priority_3">3</string>
+    <string name="label_form_priority_4">4</string>
+    <string name="label_form_priority_5">5</string>
+    <string name="button_form_submit">Enviar</string>
+    <string name="button_form_sending">Enviando...</string>
+    <string name="error_form_email_invalid_format">El email no tiene un formato válido</string>
+    <string name="error_form_description">La descripción debe tener entre 20 y 500 caracteres</string>
+    <string name="error_form_title">El título debe tener entre 5 y 60 caracteres</string>
+
 </resources>
